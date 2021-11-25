@@ -5,7 +5,7 @@ public class DemoOne {
 	public static void main(String[] args) {
 		System.out.println(" First git push demo");
 		
-		system.out.println("Pull demo trial")
+		System.out.println("Pull demo trial");
 	}
 
 }
